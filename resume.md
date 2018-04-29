@@ -1,25 +1,37 @@
 # Mark Steve Samson
 
 - Self-taught in programming
-- Deep knowledge in web technologies
-- Has more than 5 years of experience in building web services with Python and Javascript
-- Has built web services with other languages such as PHP, Golang, Ruby and Elixir
+- Has more than 7 years of experience in building services with web technologies
+
+## Areas of expertise
+
+- Software engineering (Python, Javascript, Golang, Elixir)
+- Frontend systems (React, Redux, Vue)
+- DevOps (Docker, Ansible)
+- Data engineering (Airflow, Kafka, SQL, BigQuery)
+- Data visualizations (D3, Leaflet, Vega)
 
 ## Experience
 
+### [Thinking Machines (https://thinkingmachin.es)](https://thinkingmachin.es)
+> Senior data engineer (2017-present)
+
+- Designed and built data pipelines for various types of organizations
+- Implemented data visualizations conceptualized by our designers
+
 ### [Mashup Garage (http://mashupgarage.com)](http://mashupgarage.com)
-> Senior software engineer (2016-current)
+> Senior software engineer (2016-2017)
 
 - General web development with Ruby on Rails and Elixir
 - Created a specialized document editor for a legal platform using React and Draft
 
 ### [Incorgito (https://incorgito.com)](https://incorgito.com)
-> Co-founder (2015-current)
+> Co-founder (2015-present)
 
 - Architect and backend developer of a custom gym CRM built with Django
 
 ### [Blank (https://blankhq.com)](https://blankhq.com)
-> Co-founder/CTO (2014-current)
+> Co-founder/CTO (2014-2017)
 
 - Lead developer for an e-commerce site with heavy frontend focus using Django and React
 
@@ -49,7 +61,7 @@
 > [GitHub (https://github.com/marksteve)](https://github.com/marksteve)
 
 ### [Python Philippines (https://python.ph)](https://python.ph)
-> President (2015-current); Volunteer and Board of Director (2012-2015)
+> President (2015-2017); Volunteer and Board of Director (2012-2015)
 
 - Current leader of the main Python community in the Philippines
 - Helped organize PyCon PH 2012, 2014, 2015 and 2016
@@ -57,7 +69,7 @@
 - Spoke in several local events to promote Python and its community
 
 ### [Docker Manila (https://www.meetup.com/Docker-Manila/)](https://www.meetup.com/Docker-Manila/)
-> Organizer (2014-current)
+> Organizer (2014-2017)
 
 - Organized several meetups and did talks introducing Docker to the local devops community
 
