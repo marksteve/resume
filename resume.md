@@ -1,59 +1,57 @@
 # Mark Steve Samson
 
-- Self-taught in programming
-- Has more than 7 years of experience in building services with web technologies
+- More than 7 years of experience in building services with web technologies
 
-## Areas of expertise
+## Competence
 
-- Software engineering (Python, Javascript, Golang, Elixir)
-- Frontend systems (React, Redux, Vue)
-- DevOps (Docker, Ansible)
-- Data engineering (Airflow, Kafka, SQL, BigQuery)
-- Data visualizations (D3, Leaflet, Vega)
+- Web services
+- Frontend systems
+- DevOps
+- Data engineering
+- Data visualizations
 
 ## Experience
 
 ### [Thinking Machines (https://thinkingmachin.es)](https://thinkingmachin.es)
 > Senior data engineer (2017-present)
 
-- Designed and built data pipelines for various types of organizations
-- Implemented data visualizations conceptualized by our designers
+- Designed and built data pipelines for various types of organizations using Airflow
+- Implemented data visualizations using React and D3
+- Built several internal tools and services
 
 ### [Mashup Garage (http://mashupgarage.com)](http://mashupgarage.com)
 > Senior software engineer (2016-2017)
 
 - General web development with Ruby on Rails and Elixir
-- Created a specialized document editor for a legal platform using React and Draft
+- Built a specialized document editor for a legal platform using React and Draft
 
-### [Incorgito (https://incorgito.com)](https://incorgito.com)
-> Co-founder (2015-present)
+### Incorgito
+> Co-founder (2015-2018)
 
-- Architect and backend developer of a custom gym CRM built with Django
+- Delivered various client projects with Django and React
 
-### [Blank (https://blankhq.com)](https://blankhq.com)
+### Blank
 > Co-founder/CTO (2014-2017)
 
-- Lead developer for an e-commerce site with heavy frontend focus using Django and React
+- Built an e-commerce site with a custom shirt editor, sourcing photos from social media integrations, using Django, React and PIXI.js
 
 ### [Insync (https://insynchq.com)](https://insynchq.com)
 > Web engineer (2010-2015)
 
-- Rewrote the Python web stack from the ground up
-- Created several internal tools with Python
-- Created a productivity service with Golang
+- Rewrote the entire web stack from the ground up
+- Built several internal tools and services
+- Built a productivity service experiment with Golang
 - Open sourced [several libraries (https://github.com/insynchq)](https://github.com/insynchq)
 
 ### UP Building Research Service
 > Programmer (2010)
 
-- Developed a PHP web app to implement a marine structures evaluation framework
+- Built a PHP web app to implement an evaluation framework for marine structures
 
 ### Freelance
 > 2007-2010
 
-- Worked on PHP jobs from oDesk and Freelancer
-- Developed custom Wordpress plugins
-- Developed custom content management and forum software
+- Delivered client projects with the LAMP stack
 
 ## Community
 
@@ -63,8 +61,7 @@
 ### [Python Philippines (https://python.ph)](https://python.ph)
 > President (2015-2017); Volunteer and Board of Director (2012-2015)
 
-- Current leader of the main Python community in the Philippines
-- Helped organize PyCon PH 2012, 2014, 2015 and 2016
+- Part of the organizing team of PyCon PH for 4 times
 - Organized and hosted several meetups
 - Spoke in several local events to promote Python and its community
 
