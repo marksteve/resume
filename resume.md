@@ -2,7 +2,9 @@
 
 - More than 7 years of experience in building web services and experiences
 
-## Competence
+## Competencies
+
+### Technical
 
 - Web services
 - Frontend systems
@@ -10,13 +12,20 @@
 - Data engineering
 - Data visualizations
 
+### Behavioral
+
+- Initiative
+- Mentorship
+- Collaboration
+- Openness
+
 ## Experience
 
 ### [Thinking Machines (https://thinkingmachin.es)](https://thinkingmachin.es)
 > Senior data engineer (2017-present)
 
-- Designed and built data pipelines for various types of organizations using Airflow
-- Implemented data visualizations using React and D3
+- Designed and built data infrastructure for various types of organizations
+- Implemented data visualizations using React, D3 and Leaflet
 - Built several internal tools and services
 
 ### [Mashup Garage (http://mashupgarage.com)](http://mashupgarage.com)
@@ -59,7 +68,7 @@
 > [GitHub (https://github.com/marksteve)](https://github.com/marksteve)
 
 ### [Python Philippines (https://python.ph)](https://python.ph)
-> President (2015-2017); Volunteer and Board of Director (2012-2015)
+> President (2015-2017); Board of Director (2012-2015)
 
 - Part of the organizing team of PyCon PH for 4 times
 - Organized and hosted several meetups
