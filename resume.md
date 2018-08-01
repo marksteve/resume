@@ -56,7 +56,7 @@
 - Built service experiments:
   - Google docs files browser powered by Cassandra (before Google Drive)
   - Gmail integration with Drive (before Gmail did it)
-  - Email productivity service (ala [I Done This](https://home.idonethis.com))
+  - Email productivity service written in Golang (ala [I Done This](https://home.idonethis.com))
 - Open sourced [several libraries (https://github.com/insynchq)](https://github.com/insynchq)
 
 ## Community
