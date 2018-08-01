@@ -21,46 +21,45 @@
 
 ## Experience
 
-### [Thinking Machines (https://thinkingmachin.es)](https://thinkingmachin.es)
+### [Thinking Machines (https://thinkingmachin.es)](https://thinkingmachin.es) - data science consultancy
 > Senior data engineer (2017-present)
 
 - Designed and built data infrastructure for various types of organizations
 - Implemented data visualizations using React, D3 and Leaflet
-- Built several internal tools and services
+- Built internal dashboards powered by data from Slack for operations
+- Established best practices for software and data engineering
 
-### [Mashup Garage (http://mashupgarage.com)](http://mashupgarage.com)
+### [Mashup Garage (http://mashupgarage.com)](http://mashupgarage.com) - web products consultancy
 > Senior software engineer (2016-2017)
 
 - General web development with Ruby on Rails and Elixir
 - Built a specialized document editor for a legal platform using React and Draft
 
-### Incorgito
+### Incorgito - freelance gig
 > Co-founder (2015-2018)
 
-- Delivered various client projects with Django and React
+- Delivered a [gym CRM](https://completethecircuit.com) and [e-commerce site](https://candyshield.com) with Django and React:
 
-### Blank
+### Blank - custom shirts startup
 > Co-founder/CTO (2014-2017)
 
 - Built an e-commerce site with a custom shirt editor, sourcing photos from social media integrations, using Django, React and PIXI.js
 
-### [Insync (https://insynchq.com)](https://insynchq.com)
+### [Insync (https://insynchq.com)](https://insynchq.com) - Google Drive client
 > Web engineer (2010-2015)
 
-- Rewrote the entire web stack from the ground up
-- Built several internal tools and services
-- Built a productivity service experiment with Golang
+- Rewrote the entire web stack from the ground up:
+  - Marketing pages
+  - User dashboards
+  - Billing and licensing services
+- Built several internal tools and services:
+  - Error tracking sytem (ala Sentry)
+  - Admin dashboards for handling billing
+- Built several service experiments:
+  - Google docs files browser powered by Cassandra (before Google Drive)
+  - Gmail integration with Drive (before Gmail did it)
+  - Email productivity service (ala [I Done This](https://home.idonethis.com)
 - Open sourced [several libraries (https://github.com/insynchq)](https://github.com/insynchq)
-
-### UP Building Research Service
-> Programmer (2010)
-
-- Built a PHP web app to implement an evaluation framework for marine structures
-
-### Freelance
-> 2007-2010
-
-- Delivered client projects with the LAMP stack
 
 ## Community
 
