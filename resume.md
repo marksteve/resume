@@ -50,10 +50,10 @@
   - Marketing pages
   - User dashboards
   - Billing and licensing services
-- Built several internal tools and services:
+- Built internal tools and services:
   - Error tracking sytem (ala [Sentry](https://sentry.io/))
   - Admin dashboards for handling billing
-- Built several service experiments:
+- Built service experiments:
   - Google docs files browser powered by Cassandra (before Google Drive)
   - Gmail integration with Drive (before Gmail did it)
   - Email productivity service (ala [I Done This](https://home.idonethis.com))
@@ -69,14 +69,14 @@
 #### President (2015-2017); Board of Director (2012-2015)
 
 - Part of the organizing team of PyCon PH for 4 times
-- Organized and hosted several meetups
-- Spoke in several local events to promote Python and its community
+- Organized and hosted meetups
+- Spoke in local events to promote Python and its community
 
 ### [Docker Manila (https://www.meetup.com/Docker-Manila/)](https://www.meetup.com/Docker-Manila/)
 
 #### Organizer (2014-2017)
 
-- Organized several meetups and did talks introducing Docker to the local devops community
+- Organized meetups and did talks introducing Docker to the local devops community
 
 ## Education
 
