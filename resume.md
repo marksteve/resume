@@ -1,6 +1,6 @@
 # Mark Steve Samson
 
-- 8 years of experience in building web services and experiences
+> 8 years of experience in building web services and experiences
 
 ## Experience
 
