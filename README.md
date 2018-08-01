@@ -1,4 +1,4 @@
-# My resume
+# [My resume](resume.md)
 
 ## Requires
 
