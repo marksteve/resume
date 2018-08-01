@@ -1,23 +1,6 @@
 # Mark Steve Samson
 
-- More than 7 years of experience in building web services and experiences
-
-## Competencies
-
-### Technical
-
-- Web services
-- Frontend systems
-- DevOps
-- Data engineering
-- Data visualizations
-
-### Behavioral
-
-- Initiative
-- Mentorship
-- Collaboration
-- Openness
+- 8 years of experience in building web services and experiences
 
 ## Experience
 
@@ -82,6 +65,23 @@
 
 ### University of the Philippines Diliman
 > BS Civil Engineering (2005-2010)
+
+## Competencies
+
+### Technical
+
+- Web services
+- Frontend systems
+- DevOps
+- Data engineering
+- Data visualizations
+
+### Behavioral
+
+- Initiative
+- Openness
+- Mentorship
+- Collaboration
 
 ## Contact
 
