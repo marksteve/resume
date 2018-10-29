@@ -1,8 +1,16 @@
 # Mark Steve Samson
 
-> 8 years of experience in building web services and experiences
+8 years of experience in building software and devops
 
-## Experience
+## Competencies
+
+- Web services
+- Frontend systems
+- DevOps
+- Data engineering
+- Data visualizations
+
+## Work
 
 ### [Thinking Machines (https://thinkingmachin.es)](https://thinkingmachin.es)
 
@@ -21,16 +29,16 @@
 
 #### Senior software engineer (2016-2017)
 
-- General web development with Ruby on Rails and Elixir
+- Web development with Ruby on Rails and Elixir
 - Built a specialized document editor for a legal platform using React and Draft
 
 ### Incorgito
 
-> Freelance gig
+> Freelance
 
 #### Co-founder (2015-2018)
 
-- Delivered a [gym CRM](https://completethecircuit.com) and [e-commerce site](https://candyshield.com) with Django and React:
+- Built a [gym CRM](https://completethecircuit.com) and [e-commerce site](https://candyshield.com) with Django and React
 
 ### Blank
 
@@ -83,23 +91,6 @@
 ### University of the Philippines Diliman
 
 > BS Civil Engineering (2005-2010)
-
-## Competencies
-
-### Technical
-
-- Web services
-- Frontend systems
-- DevOps
-- Data engineering
-- Data visualizations
-
-### Behavioral
-
-- Initiative
-- Openness
-- Mentorship
-- Collaboration
 
 ## Contact
 
