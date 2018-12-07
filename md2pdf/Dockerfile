@@ -6,9 +6,7 @@ LABEL "com.github.actions.icon"="file-text"
 LABEL "com.github.actions.color"="purple"
 
 RUN pip install grip
-RUN apt-get -y install xfonts-75dpi xfonts-base
-RUN curl -LO https://downloads.wkhtmltopdf.org/0.12/0.12.5/wkhtmltox_0.12.5-1.stretch_amd64.deb && \
-    dpkg -i ./wkhtmltox_0.12.5-1.stretch_amd64.deb
+RUN apt-get update && apt-get -y install wkhtmltopdf
 CMD grip resume.md --wide --export - | \
     python3 format.py | \
     wkhtmltopdf - resume.pdf
