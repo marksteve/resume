@@ -19,9 +19,9 @@
 #### Senior data engineer (2017-present)
 
 - Designed and built data infrastructure for various types of organizations
-- Implemented data visualizations using React, D3 and Leaflet
-- Built internal dashboards powered by data from Slack for operations
+- Developed complex data visualizations for storytelling and client projects
 - Established best practices for software and data engineering
+- Built internal dashboards powered by data from Slack for operations
 
 ### [Mashup Garage (http://mashupgarage.com)](http://mashupgarage.com)
 
@@ -54,7 +54,7 @@
 
 #### Web engineer (2010-2015)
 
-- Rewrote the entire web stack from the ground up:
+- Rewrote Insync's entire web stack from the ground up:
   - Marketing pages
   - User dashboards
   - Billing and licensing services
