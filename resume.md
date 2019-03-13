@@ -1,14 +1,15 @@
 # Mark Steve Samson
 
-8 years of experience in building software and devops
+- 9 years of professional experience in building software and infrastructure
+- Certified Google [Data Engineer](https://www.credential.net/ecq27xvu) and [Cloud Architect](https://www.credential.net/rsqs1lfy)
 
 ## Competencies
 
-- Web services
-- Frontend systems
-- DevOps
 - Data engineering
+- DevOps
+- Web services
 - Data visualizations
+- Frontend systems
 
 ## Work
 
@@ -18,10 +19,10 @@
 
 #### Senior data engineer (2017-present)
 
-- Designed and built data infrastructure for various types of organizations
+- Designed and built data infrastructure that handles big data transformations for various types of organizations
 - Developed complex data visualizations for storytelling and client projects
 - Established best practices for software and data engineering
-- Built internal dashboards powered by data from Slack for operations
+- Built internal dashboards and utilities for productivity and operations
 
 ### [Mashup Garage (http://mashupgarage.com)](http://mashupgarage.com)
 
