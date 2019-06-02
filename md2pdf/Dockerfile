@@ -5,7 +5,7 @@ LABEL "com.github.actions.description"="Render a Markdown file to PDF"
 LABEL "com.github.actions.icon"="file-text"
 LABEL "com.github.actions.color"="purple"
 
-RUN pip install grip bs4 && \
+RUN pip install bs4 grip pendulum && \
     apt-get update && \
     apt-get -y install xfonts-75dpi xfonts-base fonts-liberation && \
     curl -LO https://downloads.wkhtmltopdf.org/0.12/0.12.5/wkhtmltox_0.12.5-1.stretch_amd64.deb && \

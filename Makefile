@@ -3,6 +3,6 @@
 resume.pdf: resume.md
 	grip resume.md --wide --export - | \
 		python3 format.py | \
-		wkhtmltopdf - resume.pdf
+		wkhtmltopdf --title "Resume - Mark Steve Samson" - resume.pdf
 clean:
 	rm resume.pdf

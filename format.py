@@ -1,5 +1,6 @@
 import sys
 
+import pendulum
 from bs4 import BeautifulSoup
 
 if __name__ == '__main__':
@@ -16,9 +17,22 @@ if __name__ == '__main__':
     # Add some styling
     style = soup.new_tag('style')
     style.append('''
-        article { width: 40rem; }
-        * { font-family: "Liberation Sans" !important; }
+        * { font-family: "Liberation Sans", sans-serif !important; }
+        footer { margin-top: 6rem; text-align: right; }
     ''')
     soup.html.head.append(style)
+
+    # Add footer
+    last_updated = pendulum.now('Asia/Manila').to_day_datetime_string()
+    footer = BeautifulSoup(f'''
+      <footer>
+        <hr />
+        <small>
+          Automatically built using <a href="https://github.com/marksteve/resume/blob/master/.github/main.workflow">GitHub Actions</a>
+          - Last updated on {last_updated}
+        </small>
+      </footer>
+    ''', 'html.parser')
+    soup.html.body.append(footer)
 
     sys.stdout.write(soup.prettify())
