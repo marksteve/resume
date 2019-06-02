@@ -12,5 +12,5 @@ RUN pip install grip bs4 && \
     dpkg -i ./wkhtmltox_0.12.5-1.stretch_amd64.deb
 CMD grip resume.md --wide --export - | \
     python3 format.py | \
-    wkhtmltopdf - resume.pdf
+    wkhtmltopdf --title "Resume - Mark Steve Samson" - resume.pdf
 
