@@ -18,7 +18,7 @@ if __name__ == '__main__':
     style = soup.new_tag('style')
     style.append('''
         * { font-family: "Liberation Sans", sans-serif !important; }
-        h1, h2, h3, h4 { margin-top: 3rem !important; }
+        h1, h2, h3, h4 { margin-top: 2rem !important; }
         footer { margin-top: 6rem; text-align: right; }
     ''')
     soup.html.head.append(style)
