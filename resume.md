@@ -1,9 +1,9 @@
 # Mark Steve Samson
 
-- 9 years of professional experience in building software and infrastructure
+- 9 years of professional experience in designing, building and deploying software
 - Certified Google [Data Engineer](https://www.credential.net/ecq27xvu) and [Cloud Architect](https://www.credential.net/rsqs1lfy)
 
-## Competencies
+## Expertise
 
 - Data engineering
 - DevOps
@@ -17,11 +17,17 @@
 
 > Data science consultancy
 
-#### Senior data engineer (2017-present)
+#### Head of Engineering R&D (2018-present)
 
-- Designed and built data infrastructure that handles big data transformations for various types of organizations
+- Leads a small group of full-stack engineers that works on delivering prototypes and
+  production-grade deployments of the team's R&D projects
+
+#### Senior data engineer (2017-2018)
+
+- Designed and built infrastructure that handles data integration for various types of organizations
 - Developed complex data visualizations for storytelling and client projects
 - Established best practices for software and data engineering
+- Mentored teammates on software-related topics and problems
 - Built internal dashboards and utilities for productivity and operations
 
 ### [Mashup Garage (http://mashupgarage.com)](http://mashupgarage.com)
@@ -77,8 +83,8 @@
 
 #### President (2015-2017); Board of Director (2012-2015)
 
-- Part of the organizing team of PyCon PH for 4 times
-- Organized and hosted meetups
+- Part of the organizing team of PyCon PH
+- Organized and hosted monthly meetups
 - Spoke in local events to promote Python and its community
 
 ### [Docker Manila (https://www.meetup.com/Docker-Manila/)](https://www.meetup.com/Docker-Manila/)
