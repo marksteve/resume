@@ -15,7 +15,10 @@ if __name__ == '__main__':
 
     # Add some styling
     style = soup.new_tag('style')
-    style.append('article { width: 40rem; }')
+    style.append('''
+        article { width: 40rem; }
+        * { font-family: "Liberation Sans" !important; }
+    ''')
     soup.html.head.append(style)
 
     sys.stdout.write(soup.prettify())
