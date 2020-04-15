@@ -17,9 +17,11 @@
 
 > Data science consultancy
 
-#### Head of Engineering R&D (2018-present)
+#### Technical Lead for Products and Tools (2019-present)
 
-- Leads a small group of full-stack engineers that works on delivering prototypes and
+#### Head of Engineering R&D (2018-2019)
+
+- Led a small group of full-stack engineers that works on delivering prototypes and
   production-grade deployments of the team's R&D projects
 
 #### Senior data engineer (2017-2018)
