@@ -5,11 +5,12 @@ I have 10 years of professional experience in solving problems through software 
 ## Expertise
 
 - Web services
+- API design
 - Frontend systems
 - DevOps
-- Infrastructure design
 - Data engineering
 - Data visualizations
+- Solution architecture
 
 ## Work History
 
@@ -21,7 +22,7 @@ _Data science consultancy_
   - Leads a team of ~10 product engineers with the following goals:
     - Create great product experiences for client projects
     - Build internal tools that improve systems delivery
-  - Designs high-level system architecture for major client projects 
+  - Designs solution architecture for major client projects 
 
 - Head of Engineering R&D (2018-2019)
   - Managed a handful of product engineers with the following responsibilities:
