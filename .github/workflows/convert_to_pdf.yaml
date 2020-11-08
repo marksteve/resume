@@ -1,0 +1,18 @@
+name: Convert to PDF
+
+on: push
+
+jobs:
+  convert_to_pdf:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@v2
+      - uses: docker://pandoc/latex:2.9
+        with:
+          args: "resume.md -V geometry:margin=1in --output resume.pdf"
+      - uses: GoogleCloudPlatform/github-actions/setup-gcloud@master
+        with:
+          version: '290.0.1'
+          service_account_key: ${{ secrets.GCLOUD_AUTH }}
+          export_default_credentials: true
+      - run: gsutil cp resume.pdf gs://marksteve/resume.pdf
