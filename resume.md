@@ -19,7 +19,7 @@ I have 10 years of professional experience in solving problems through software 
 _Data science consultancy_
 
 - Head of Products and Tools (2019-present)
-  - Leads a team of ~10 product engineers with the following goals:
+  - Leads and manages a team of ~10 product engineers with the following goals:
     - Create great product experiences for client projects
     - Build internal tools that improve systems delivery
   - Designs solution architecture for major client projects 
@@ -28,14 +28,13 @@ _Data science consultancy_
   - Managed a handful of product engineers with the following responsibilities:
     - Guide and monitor growth
     - Provide technical mentorship
-    - Support and encourage innovation mindset
+    - Support and encourage exploration and innovation
 
 - Senior data engineer (2017-2018)
   - Designed and built infrastructure that handles data integration for various types of organizations
   - Developed complex data visualizations for storytelling and client projects
   - Established best practices for software and data engineering
-  - Mentored the team on software engineering
-  - Built internal dashboards and utilities for productivity and operations
+  - Built internal dashboards and tools for productivity and operations
 
 ### [Mashup Garage (http://mashupgarage.com)](http://mashupgarage.com)
 
