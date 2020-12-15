@@ -3,5 +3,5 @@
 ## Convert to PDF
 
 ```
-pandoc resume.md --output resume.pdf
+pandoc resume.md -V geometry:margin=1in --output resume.pdf"
 ```
