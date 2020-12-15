@@ -22,7 +22,7 @@ _Data science consultancy_
   - Leads and manages a team of ~10 product engineers with the following goals:
     - Create great product experiences for client projects
     - Build internal tools that improve systems delivery
-  - Designs solution architecture for major client projects 
+  - Designs solution architecture for major client projects
 
 - Head of Engineering R&D (2018-2019)
   - Managed a handful of product engineers with the following responsibilities:
@@ -37,12 +37,15 @@ _Data science consultancy_
   - Built internal dashboards and tools for productivity and operations
 
 - Experienced working with tech stacks for data engineering and ML products:
-  - Airflow: deployed and managed several instances, written internal custom plugins
+  - GCP: managed projects in our organization, certified data engineer and cloud architect
+  - Terraform: wrote standard configurations for our GCP deployments
+  - Airflow/Dagster: deployed and managed several instances, written internal custom plugins
   - Firebase: developed internal tools and microsites
   - React + Next.js: developed internal component system, internal tools, client ML products
   - React-Native: worked on the app frontend of a client ML product
   - Express: developed API endpoints integrating various client ML services
   - Mapbox: developed webmaps for microsites and client interfaces
+  - FastAPI: created standard templates for serving ML models
 
 ### [Mashup Garage (http://mashupgarage.com)](http://mashupgarage.com)
 
