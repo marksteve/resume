@@ -36,6 +36,14 @@ _Data science consultancy_
   - Established best practices for software and data engineering
   - Built internal dashboards and tools for productivity and operations
 
+- Experienced working with tech stacks for data engineering and ML products:
+  - Airflow: deployed and managed several instances, written internal custom plugins
+  - Firebase: developed internal tools and microsites
+  - React + Next.js: developed internal component system, internal tools, client ML products
+  - React-Native: worked on the app frontend of a client ML product
+  - Express: developed API endpoints integrating various client ML services
+  - Mapbox: developed webmaps for microsites and client interfaces
+
 ### [Mashup Garage (http://mashupgarage.com)](http://mashupgarage.com)
 
 _Web products consultancy_
@@ -66,13 +74,21 @@ _Google Drive client_
 
 - Web engineer (2010-2015)
   - Rewrote Insync's entire web stack from the ground up:
+    - Ported from CherryPy to Flask
     - Marketing pages
     - User dashboards
     - Billing and licensing services
+      - Stripe API
+      - Tornado
   - Built internal tools and services:
     - Error tracking sytem (ala [Sentry](https://sentry.io/))
     - Admin dashboards for handling billing
-    - Mailer service for transactional emails 
+      - Stripe API
+      - Backbone
+      - Flask
+    - Mailer service for transactional emails
+      - AWS SES
+      - Gevent
   - Built service experiments:
     - Google docs files browser powered by Cassandra (before Google Drive)
     - Gmail integration with Drive (before Gmail did it)
