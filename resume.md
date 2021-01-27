@@ -69,7 +69,7 @@ _Freelance web consultancy_
 
 _Custom shirts startup_
 
-- Co-founder/CTO (2014-2017)
+- Co-founder/CTO (2014-2016)
   - Built an e-commerce site with a custom shirt editor, importing photos from social media integrations, using Django, React and PIXI.js
 
 ### [Insync (https://insynchq.com)](https://insynchq.com)
