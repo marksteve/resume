@@ -28,7 +28,8 @@ _Data science consultancy_
   - Managed a handful of product engineers with the following responsibilities:
     - Guide and monitor growth
     - Provide technical mentorship
-    - Support and encourage exploration and innovation
+    - Support, encourage, and manage exploratory engineering projects
+  - Lead development for multiple client PoCs and demos
 
 - Senior data engineer (2017-2018)
   - Designed and built infrastructure that handles data integration for various types of organizations
